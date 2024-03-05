@@ -1,6 +1,6 @@
 # HTML5 Pong
 
-<h3>Proyect made with vanilla JS and HTML5 Canvas</h3>
+<h3>Project made with vanilla JS and HTML5 Canvas</h3>
 
 ![HTML5 Pong image](extra/html5-pong.png)
 
